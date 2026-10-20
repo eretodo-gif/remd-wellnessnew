@@ -1,0 +1,3 @@
+REMD WEBSITE - ROOT-LEVEL PACKAGE
+
+Upload all files AND the assets folder into the ROOT of your website repository. index.html and assets/ should be siblings. In Vercel, set Root Directory to ./ (repository root); Framework Preset: Other; Output Directory: leave blank. Deploy and test /assets/styles.css and /assets/remd-logo.png. Do not upload this ZIP without extracting unless your deployment service explicitly accepts ZIP deployment.
